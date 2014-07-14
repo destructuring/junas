@@ -18,3 +18,7 @@ Select a color scheme:
 
     " use the xoria256 color scheme
     colorscheme xoria256
+
+Fetch the missing submodules:
+    cd ~/.junas
+    git submodule update --init --recursive
